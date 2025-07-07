@@ -11,7 +11,13 @@ Somos especialistas em criação de **sites profissionais**, **responsivos** e 1
 ## 🤝 Contato e redes:
 - 📸 Instagram: [@sitemagicx](https://www.instagram.com/sitemagic10?igsh=d214czJwNDB1ZDJj)
 - ✉️ Email: agilsite2025@gmail.com
+## 🧩 Quem somos
 
+🧠 Foco em desempenho e visual  
+🧮 HTML, CSS, JavaScript  
+🎯 Entregamos projetos com agilidade e capricho  
+💪 Comprometimento total com o cliente
+  
 ---
 
 > ✨ *Acreditamos que um site bonito pode transformar um negócio.*
