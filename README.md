@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Bem-vindo(a) ao GitHub da SiteMagic!
 
-<!--
-**Agilsite/Agilsite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Somos especialistas em criação de **sites profissionais**, **responsivos** e 100% personalizados para empresas, comércios locais e empreendedores digitais.
 
-Here are some ideas to get you started:
+## 🌐 Projetos em destaque:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧁 [Padaria](https://agilsite.github.io/Padaria/)
+- 🏋️‍♂️ [Foco no dia a dia](https://agilsite.github.io/MeudiaFacil/)
+- 📱 [Super Calculadora](https://agilsite.github.io/Calculadora/)
+
+## 🤝 Contato e redes:
+- 📸 Instagram: [@agilsite](https://instagram.com/agilsite)
+- ✉️ Email: contato@agilsite.com
+
+---
+
+> ✨ *Acreditamos que um site bonito pode transformar um negócio.*
