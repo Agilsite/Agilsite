@@ -9,8 +9,8 @@ Somos especialistas em criação de **sites profissionais**, **responsivos** e 1
 - 📱 [Super Calculadora](https://agilsite.github.io/Calculadora/)
 
 ## 🤝 Contato e redes:
-- 📸 Instagram: [@agilsite](https://instagram.com/agilsite)
-- ✉️ Email: contato@agilsite.com
+- 📸 Instagram: [@sitemagicx](https://www.instagram.com/sitemagic10?igsh=d214czJwNDB1ZDJj)
+- ✉️ Email: agilsite2025@gmail.com
 
 ---
 
